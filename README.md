@@ -25,6 +25,9 @@ ur welcome ;)
     <a href="https://www.linkedin.com/in/DavidsDvm">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
+    <a href="mailto:dvargas896@misena.edu.co">
+      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+    </a>
   </p>
 </h1>
 
@@ -41,7 +44,7 @@ If you are interested in a guy with a good vibe who loves the knowledge and the 
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
 
-<img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="300px"/>
+<img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
 
 ### 🧐 More About Me:
 
