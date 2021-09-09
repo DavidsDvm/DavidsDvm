@@ -1,0 +1,32 @@
+{
+  "name": "davidsdvm",
+  "version": "1.0.0",
+  "description": "Readme file from github profile page",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidsDvm/DavidsDvm.git"
+  },
+  "keywords": [
+    "readme",
+    "file",
+    "DavidsDvm",
+    "autoloader",
+    "readme"
+  ],
+  "author": "DavidsDvm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidsDvm/DavidsDvm/issues"
+  },
+  "homepage": "https://github.com/DavidsDvm/DavidsDvm#readme"
+}
