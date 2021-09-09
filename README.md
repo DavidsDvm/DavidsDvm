@@ -34,6 +34,7 @@ ur welcome ;)
 <hr>
 
 <!-- Description about me -->
+<h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
 Eyyyy!!! <br />
 I am <b>David Vargas</b> better known as 'DavidsDvm'🕵🏼‍♂️ <br />
@@ -43,6 +44,26 @@ So... I am more than a robot coding 🤖, I am a real human trying to learn new 
 If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
+
+<!-- Bogota's weather table -->
+
+<h2 align="center"> 🇨🇴 Bogota's Weather ⛅ </h2>
+<table align="center" style="width:50%">
+    <tr style="text-align:center">
+        <th>Weather</th>
+        <th>Temperature</th>
+        <th>Sunrise</th>
+        <th>Sunset</th>
+        <th>Humidity</th>
+    </tr>
+    <tr style="text-align:center">
+        <td><b>scattered clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
+        <td><b>19°C</b></td>
+        <td><b>05:48 AM</b></td>
+        <td><b>05:58 PM</b></td>
+        <td><b>48%</b></td>
+    </tr>
+</table>
 
 <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
 
@@ -57,7 +78,9 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 - 🎷 &nbsp; When I am free, I like to play the Sax
 <!-- - 📝 &nbsp; Checkout my [resume]() -->
 
-<br><br><br><br><br>
+<br><br><br>
+
+<!-- languajes and skills section -->
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
@@ -93,6 +116,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 </p>
 <br>
 
+<!-- GitHub stats section -->
+
 ## 📊 Github stats
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
@@ -104,6 +129,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+<!-- Projects section -->
 
 ## 📘 My top open source projects
 
@@ -121,16 +147,24 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 </p>
 
 <p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
 
 <p align="left">
   <a href="https://github.com/DavidsDvm?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+<!-- last activity section -->
 
 ## Activity Graph
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=DavidsDvm&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+<br>
+
+<!-- last refresh of readme section -->
+
+Last refresh: <b>Thursday, September 9, 4:29 PM GMT-5</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
