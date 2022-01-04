@@ -13,9 +13,6 @@ ur welcome ;)
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
-    <a href="https://twitter.com/DavidsDvm">
-      <img src="https://img.shields.io/badge/twitter-7cebf5?&style=for-the-badge&logo=twitter&logoColor=black">
-    </a>
     <a href="https://stackoverflow.com/users/story/16787643">
       <img src="https://img.shields.io/badge/stack%20overflow-7cebf5?&style=for-the-badge&logo=stack%20overflow&logoColor=black">
     </a>
@@ -25,7 +22,7 @@ ur welcome ;)
     <a href="https://www.linkedin.com/in/DavidsDvm">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
-    <a href="mailto:dvargas896@misena.edu.co">
+    <a href="mailto:davids.dvm@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
@@ -58,10 +55,10 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     </tr>
     <tr style="text-align:center">
         <td><b>few clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;02d.png></td>
-        <td><b>9°C</b></td>
+        <td><b>15°C</b></td>
         <td><b>06:05 AM</b></td>
         <td><b>05:57 PM</b></td>
-        <td><b>87%</b></td>
+        <td><b>63%</b></td>
     </tr>
 </table>
 
@@ -71,7 +68,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 - 🔭 &nbsp; I’m currently studying at **SENA**
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Proyects
-- 🌱 &nbsp; I’m currently learning Django; 
+- 🌱 &nbsp; I’m currently learning Django & NestJS; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
@@ -84,13 +81,15 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
+  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
   <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
-  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="F;asl" title="Flask" src="./assets/flask.png" height="42"></a></code>
   <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
+  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
 </p>
@@ -98,11 +97,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
+  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
+  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
   <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
   <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
-  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
-  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
 </p>
 <br>
@@ -164,7 +163,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Tuesday, January 4, 7:15 AM GMT-5</b>
+Last refresh: <b>Tuesday, January 4, 8:55 AM GMT-5</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
