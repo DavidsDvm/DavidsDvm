@@ -57,11 +57,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b>scattered clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03n.png></td>
-        <td><b>15°C</b></td>
-        <td><b>06:04 AM</b></td>
-        <td><b>05:56 PM</b></td>
-        <td><b>77%</b></td>
+        <td><b>few clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;02d.png></td>
+        <td><b>9°C</b></td>
+        <td><b>06:05 AM</b></td>
+        <td><b>05:57 PM</b></td>
+        <td><b>87%</b></td>
     </tr>
 </table>
 
@@ -164,7 +164,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Monday, January 3, 7:35 PM GMT-5</b>
+Last refresh: <b>Tuesday, January 4, 7:15 AM GMT-5</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
