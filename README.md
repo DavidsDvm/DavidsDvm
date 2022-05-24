@@ -54,27 +54,49 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b>broken clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
+        <td><b>light rain</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;10n.png></td>
         <td><b>13°C</b></td>
         <td><b>05:42 AM</b></td>
         <td><b>06:03 PM</b></td>
-        <td><b>88%</b></td>
+        <td><b>93%</b></td>
     </tr>
 </table>
 
-<img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
-
 ### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently studying at **SENA**
-- 🤝 &nbsp; I’m looking to collaborate on Open Source Proyects
-- 🌱 &nbsp; I’m currently learning Django & NestJS; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
-- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
-- 🎷 &nbsp; When I am free, I like to play the Sax
-- 📝 &nbsp; Checkout my [Page](https://www.davidsdvm.com/) 
-
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <ul>
+        <li>
+          🔭 I’m currently studying at **SENA**
+        </li>
+        <li>
+          🤝 I’m looking to collaborate on Open Source Proyects
+        </li>
+        <li>
+          🌱 I’m currently learning Django & NestJS; 
+        </li>
+        <li>
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+        </li>
+        <li>
+          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+        </li>
+        <li>
+          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
+        </li>
+        <li>
+          🎷 When I am free, I like to play the Sax
+        </li>
+        <li>
+          📝 Checkout my [Page](https://www.davidsdvm.com/) 
+        </li>
+    </td>
+    <td style="border: none;">
+      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
+    </td>
+  </tr>
+</table>
 <br><br><br>
 
 <!-- languajes and skills section -->
@@ -163,7 +185,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Tuesday, May 24, 7:21 AM GMT-5</b>
+Last refresh: <b>Tuesday, May 24, 6:26 PM GMT-5</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
