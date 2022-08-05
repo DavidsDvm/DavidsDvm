@@ -54,11 +54,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b>broken clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-        <td><b>11°C</b></td>
+        <td><b>scattered clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
+        <td><b>13°C</b></td>
         <td><b>05:53 AM</b></td>
         <td><b>06:11 PM</b></td>
-        <td><b>93%</b></td>
+        <td><b>88%</b></td>
     </tr>
 </table>
 
@@ -178,14 +178,14 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ## Activity Graph
 <p align="center">
-  <img src="https://github-profile-stadistics.herokuapp.com/graph?username=DavidsDvm&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
 </p>
 
 <br>
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Friday, August 5, 7:22 AM GMT-5</b>
+Last refresh: <b>Friday, August 5, 9:03 AM GMT-5</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
