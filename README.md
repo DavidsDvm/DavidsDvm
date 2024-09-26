@@ -54,8 +54,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b>broken clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-        <td><b>13°C</b></td>
+        <td><b>thunderstorm with light rain</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;11d.png></td>
+        <td><b>14°C</b></td>
         <td><b>05:44 AM</b></td>
         <td><b>05:50 PM</b></td>
         <td><b>94%</b></td>
@@ -63,56 +63,44 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 </table>
 
 ### 🧐 More About Me:
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <ul>
-        <li>
-          🔭 I’m currently studying at **SENA**
-        </li>
-        <li>
-          🤝 I’m looking to collaborate on Open Source Proyects
-        </li>
-        <li>
-          🌱 I’m currently learning Django & NestJS; 
-        </li>
-        <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
-        </li>
-        <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
-        </li>
-        <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
-        </li>
-        <li>
-          🎷 When I am free, I like to play the Sax
-        </li>
-        <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
-        </li>
-    </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🔭 I’m currently studying CS at <b>Jorge Tadeo University</b></li>
+      <li>🤝 I’m looking to collaborate on Open Source Projects</li>
+      <li>🌱 I’m currently learning ML/AI</li>
+      <li>👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)</li>
+      <li>💬 Ask me about anything tech related, I am happy to help (if you have questions with Linux, you can ask me 🐧)</li>
+      <li>📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)</li>
+      <li>🎷 When I am free, I like to play the Sax</li>
+      <li>📝 Checkout my [Page](https://www.davidsdvm.com/)</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; text-align: right;">
+    <img alt="GIF" src="./assets/dance_ascii.gif" width="450"/>
+  </div>
+</div>
 <br><br><br>
 
 <!-- languajes and skills section -->
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
-  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://nodejs.org/en"><img alt="Node" title="Node" src="./assets/node.png" height="42"></a></code>
+  <code><a href="https://react.dev/"><img alt="React" title="React" src="./assets/react.webp" height="42"></a></code>
+  <code><a href="https://angular.dev/"><img alt="Angular" title="Angular" src="./assets/angular.png" height="42"></a></code>
+  <code><a href="https://www.typescriptlang.org/"><img alt="typescript" title="typescript" src="./assets/typescript.png" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://reactnative.dev/"><img alt="react native" title="react native" src="./assets/reactnative.png" height="42"></a></code>
+  <code><a href="https://www.python.org/"><img alt="python" title="python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
   <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
   <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
-  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
   <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
   <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
 </p>
 <br>
@@ -121,7 +109,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <p align="center">
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
   <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
-  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
   <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
   <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
@@ -133,6 +120,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
+  <code><a href="https://classic.yarnpkg.com/en/"><img alt="YARN" title="YARN" src="./assets/yarn.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
 </p>
 <br>
@@ -185,7 +173,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Thursday, September 26, 7:22 AM GMT-5</b>
+Last refresh: <b>Thursday, September 26 at 4:17 PM GMT-5</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
